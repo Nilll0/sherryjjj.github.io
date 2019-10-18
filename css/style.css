@@ -906,8 +906,8 @@ Footer
 }
 
 .site-header .menu-toggle {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     background: url("../images/menu.svg") center no-repeat;
     text-indent: -99999px;
     overflow: hidden;
